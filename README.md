@@ -1,0 +1,1 @@
+# Wordpress MySQL PHPMyadmin with Docker
